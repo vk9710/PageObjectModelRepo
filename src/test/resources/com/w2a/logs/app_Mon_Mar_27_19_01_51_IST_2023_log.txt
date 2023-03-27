@@ -1,0 +1,13 @@
+INFO    2023-03-27 19:01:51,156 [main] com.w2a.base.Page  - Config properties loaded !!!
+INFO    2023-03-27 19:01:51,158 [main] com.w2a.base.Page  - OR properties loaded !!!
+INFO    2023-03-27 19:01:56,226 [main] com.w2a.base.Page  - Launching Chrome !!!
+INFO    2023-03-27 19:01:59,437 [main] com.w2a.base.Page  - Navigated to : https://www.zoho.com/
+INFO    2023-03-27 19:02:00,974 [main] com.w2a.base.Page  - Clicking on an Element : SignInBtn_CSS
+INFO    2023-03-27 19:02:01,272 [main] com.w2a.base.Page  - typing in an Element : LoginId_CSS entered the value as : vijayanandkumar7@gmail.com
+INFO    2023-03-27 19:02:01,438 [main] com.w2a.base.Page  - Clicking on an Element : nextBtn_XPATH
+INFO    2023-03-27 19:02:01,590 [main] com.w2a.base.Page  - typing in an Element : Password_XPATH entered the value as : ^YU&*Ii87uy6
+INFO    2023-03-27 19:02:01,692 [main] com.w2a.base.Page  - Clicking on an Element : SignIn1Btn_XPATH
+INFO    2023-03-27 19:02:11,125 [main] com.w2a.base.Page  - Clicking on an Element : CRMicon_XPATH
+INFO    2023-03-27 19:02:13,426 [main] com.w2a.base.Page  - Clicking on an Element : AccountsTab_CSS
+INFO    2023-03-27 19:02:16,347 [main] com.w2a.base.Page  - Clicking on an Element : CreateAccountBtn_CSS
+INFO    2023-03-27 19:02:18,413 [main] com.w2a.base.Page  - typing in an Element : AccName_CSS entered the value as : Vijay
