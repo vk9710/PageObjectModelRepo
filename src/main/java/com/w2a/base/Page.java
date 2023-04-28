@@ -55,6 +55,7 @@ public class Page extends TopMenu {
 			Date d = new Date();
 			System.setProperty("current.date", d.toString().replace(":", "_").replace(" ", "_"));
 			PropertyConfigurator.configure("./src/test/resources/com/w2a/properties/log4j.properties");
+			
 			try {
 				fis = new FileInputStream(System.getProperty("user.dir")
 						+ "\\src\\test\\resources\\com\\w2a\\properties\\config.properties");

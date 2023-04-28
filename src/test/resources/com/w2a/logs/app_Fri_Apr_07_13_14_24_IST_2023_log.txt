@@ -1,0 +1,5 @@
+INFO    2023-04-07 13:14:24,792 [main] com.w2a.base.Page  - Config properties loaded !!!
+INFO    2023-04-07 13:14:24,794 [main] com.w2a.base.Page  - OR properties loaded !!!
+INFO    2023-04-07 13:14:29,898 [main] com.w2a.base.Page  - Launching Chrome !!!
+INFO    2023-04-07 13:14:33,210 [main] com.w2a.base.Page  - Navigated to : https://www.zoho.com/
+INFO    2023-04-07 13:14:34,353 [main] com.w2a.base.Page  - Clicking on an Element : SignInBtn_CSS

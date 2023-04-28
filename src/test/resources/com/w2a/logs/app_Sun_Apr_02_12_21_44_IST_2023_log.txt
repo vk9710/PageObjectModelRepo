@@ -1,0 +1,6 @@
+INFO    2023-04-02 12:21:44,573 [main] com.w2a.base.Page  - Config properties loaded !!!
+INFO    2023-04-02 12:21:44,613 [main] com.w2a.base.Page  - OR properties loaded !!!
+INFO    2023-04-02 12:21:48,766 [main] com.w2a.base.Page  - Launching Chrome !!!
+INFO    2023-04-02 12:21:52,256 [main] com.w2a.base.Page  - Navigated to : https://www.zoho.com/
+INFO    2023-04-02 12:21:53,481 [main] com.w2a.base.Page  - Clicking on an Element : SignInBtn_CSS
+INFO    2023-04-02 12:21:53,868 [main] com.w2a.base.Page  - typing in an Element : LoginId_CSS entered the value as : vijayanandkumar7@gmail.com

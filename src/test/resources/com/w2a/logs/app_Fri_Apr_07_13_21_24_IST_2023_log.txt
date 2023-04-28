@@ -1,0 +1,4 @@
+INFO    2023-04-07 13:21:24,887 [main] com.w2a.base.Page  - Config properties loaded !!!
+INFO    2023-04-07 13:21:24,889 [main] com.w2a.base.Page  - OR properties loaded !!!
+INFO    2023-04-07 13:21:29,056 [main] com.w2a.base.Page  - Launching Chrome !!!
+INFO    2023-04-07 13:21:31,256 [main] com.w2a.base.Page  - Navigated to : https://www.zoho.com/
